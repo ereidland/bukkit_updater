@@ -1,0 +1,9 @@
+name: Updater
+version: 0.1
+main: net.evtr.bupdater.UpdaterPlugin
+
+commands:
+    update:
+        description: 'Downloads stuff.'
+        usage: '/update <from> <?to>'
+            
